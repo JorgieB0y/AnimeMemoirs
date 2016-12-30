@@ -65,10 +65,10 @@
 				CF1A9D4A1E1573040098803F /* ViewController.swift */,
 				CF1A9D5F1E1578860098803F /* AnimeAddViewController.swift */,
 				CF1A9D4C1E1573040098803F /* Main.storyboard */,
+				CF1A9D4F1E1573040098803F /* Anime_Memoirs.xcdatamodeld */,
 				CF1A9D521E1573040098803F /* Assets.xcassets */,
 				CF1A9D541E1573040098803F /* LaunchScreen.storyboard */,
 				CF1A9D571E1573040098803F /* Info.plist */,
-				CF1A9D4F1E1573040098803F /* Anime_Memoirs.xcdatamodeld */,
 			);
 			path = "Anime Memoirs";
 			sourceTree = "<group>";
